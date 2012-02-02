@@ -1,0 +1,16 @@
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\MVC4Test.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\MVC4Test.pdb
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\EntityFramework.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\Microsoft.Web.Infrastructure.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\Microsoft.Web.Optimization.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.Helpers.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.Mvc.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.Providers.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.Razor.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.WebPages.Deployment.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.WebPages.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\System.Web.WebPages.Razor.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\bin\EntityFramework.xml
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\obj\Debug\MVC4Test.dll
+c:\documents and settings\cfc6s35\my documents\visual studio 2010\Projects\MVC4Test\MVC4Test\obj\Debug\MVC4Test.pdb
